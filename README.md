@@ -1,14 +1,16 @@
-Landing
+<h1>Application Preview</h1>
 
-![](screens/ad1813.jpg)
+<h2>Landing</h2>
+
+<img src="screens/ad1813.jpg">
 
 ![](screens/cc123d.jpg)
 
-Movie Recommendations
+<h2>Movie Recommendations</h2>
 
-![](screens/95b8b9.jpg)
+<img src="screens/95b8b9.jpg">
+<h2>Movie Ratings</h2> 
 
-Movie Ratings 
+<img src="screens/676356.jpg">
 
-![](screens/676356.jpg)
 
