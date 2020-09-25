@@ -4,7 +4,11 @@ Landing
 
 ![](screens/cc123d.jpg)
 
-Movie Rating
+Movie Recommendations
 
 ![](screens/95b8b9.jpg)
+
+Movie Ratings 
+
+![](screens/676356.jpg)
 
