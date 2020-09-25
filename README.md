@@ -13,5 +13,5 @@
 
 <img src="screens/676356.jpg">
 
-<p>Visit <a href="freelancer.in/u/freelanceraniket">freelancer.in/u/freelanceraniket</a> for more of my work samples</p>
+<p>Visit <a href="www.freelancer.in/u/freelanceraniket">www.freelancer.in/u/freelanceraniket</a> for more of my work samples</p>
 
