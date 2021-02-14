@@ -1,5 +1,5 @@
-<h1>Application Preview</h1>
-
+# Movie Recommender 
+###### Using collaborative filtering technique to recommend movies to users based on community rating from the database of over 40k movies.  
 <h2>Landing</h2>
 
 <img src="screens/ad1813.jpg">
