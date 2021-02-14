@@ -13,5 +13,5 @@
 
 <img src="screens/676356.jpg">
 
-###### Visit (www.freelancer.in/u/freelanceraniket">www.freelancer.in/u/freelanceraniket) for more of my work samples
+###### Visit (www.freelancer.in/u/freelanceraniket">www.freelancer.in/u/freelanceraniket) for more of my commercial work samples
 
