@@ -1,5 +1,5 @@
 # Movie Recommender 
-###### Using collaborative filtering technique to recommend movies to users based on community rating from the database of over 40k movies.  
+###### Using collaborative filtering technique to recommend movies to users based on community rating from the database of over 40k movies. Interactive dashboard for users to analyze thier own taste in movie genres based upon the rating history.
 <h2>Landing</h2>
 
 <img src="screens/ad1813.jpg">
